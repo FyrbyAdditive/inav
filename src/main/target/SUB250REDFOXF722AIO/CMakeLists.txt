@@ -1,0 +1,1 @@
+target_stm32f722xe(SUB250REDFOXF722AIO)
